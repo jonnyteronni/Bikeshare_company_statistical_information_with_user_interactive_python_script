@@ -56,7 +56,7 @@ def get_filters():
 
         elif time_filter == 'yes':
 
-            # Understands if user wants to filter by month
+            # Understands if user wants to filter by month or not
             while True:
                 question = input('Do you want to filter by month?(yes/no)\n').lower()
                 if question == 'no':
@@ -115,7 +115,7 @@ def repeat_answer():
     while True:
         repeat = input('Do you want to try again? (yes/no)\n').lower()
         if repeat == 'no':
-            print('I\'m sad to see you go but life is full of bad choices so I understand. Bye!\n')
+            print('I\'m sad to see you go but life is full of bad choices so I understand. Bye and see you soon!\n')
             sys.exit()
         elif repeat != 'yes':
             print('\nYou wrote ' + Fore.RED + Back.WHITE + '{}'.format(repeat) + Fore.RESET + Back.RESET + ' instead of yes or no. No problem, you can try the times you want :)\n')
