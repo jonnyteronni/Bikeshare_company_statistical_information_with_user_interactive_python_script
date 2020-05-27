@@ -2,7 +2,7 @@
 May 27, 2020
 
 ### Project Title
-Bikeshare statistical data
+Bikeshare company statistical data
 
 ### Description
 The project is a dynamic program that shares with the user statistical information of Bikeshare company on three different USA cities: Chicago, New York and Washington.
