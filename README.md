@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+May 27, 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+The project is a dynamic program that shares with the user statistical information of bikeshare company on three different USA cities: Chicago, New York and Washington.
+The user has the possibility to choose one of these cities before receiving any stats and apply filters to the data.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
+README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This project was not possible without the guidance of Udacity website and their professors. If you want to learn successfully about anything try one of their courses on https://www.udacity.com/
