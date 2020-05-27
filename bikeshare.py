@@ -56,7 +56,7 @@ def get_filters():
 
         elif time_filter == 'yes':
 
-            # Understands if user wants to filter by month
+            # Understands if user wants to filter by month or not
             while True:
                 question = input('Do you want to filter by month?(yes/no)\n').lower()
                 if question == 'no':
